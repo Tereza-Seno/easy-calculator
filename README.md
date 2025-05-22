@@ -1,63 +1,42 @@
-## 🥮 Simple Math Prompt Web App
 
-A simple HTML + JavaScript project that asks the user for two numbers and displays the sum, difference, product, and quotient on the page.
+## Simple Math Prompt Web App 🧮
 
-### 📝 Description
+### 📝 Project Description  
+This small web project demonstrates basic user interaction with JavaScript. The app prompts the user to enter two numbers and then dynamically shows:  
+➕ Their sum  
+➖ Their difference  
+✖️ Their product  
+➗ Their quotient  
 
-This small web project demonstrates basic user interaction with JavaScript. The app prompts the user to enter two numbers and then dynamically shows:
+### 📁 Project Structure  
+- `index.html` – Basic HTML layout  
+- `style.css` (optional) – Your own styles  
+- `script.js` – JavaScript for DOM manipulation, prompts and calculations  
 
-➕ Their sum
+### ▶️ How to Use  
+1. Open the `index.html` file in your browser 🌐  
+2. Enter two numbers when prompted 🧾  
+3. See the results appear on the page under the **Results** section ✅  
 
-➖ Their difference
+-----------------------------------------------------------------------------------
 
-✖️ Their product
+## Jednoduchá matematická aplikace 🧮
 
-➗ Their quotient
+### 📝 Popis projektu  
+Tento malý webový projekt ukazuje základní interakci s uživatelem v JavaScriptu. Aplikace se zeptá na dvě čísla a poté zobrazí:  
+➕ Jejich součet  
+➖ Jejich rozdíl  
+✖️ Jejich součin  
+➗ Jejich podíl  
 
-### 🚀 How to Use
+### 📁 Struktura projektu  
+- `index.html` – HTML kostra stránky  
+- `style.css` (volitelné) – vlastní styly  
+- `script.js` – JavaScript, který pracuje s DOM, prompt() a provádí výpočty  
 
-Open the HTML file in a browser.
-
-Enter two numbers when prompted.
-
-See the results appear on the page under the Results section.
-
-### 🛠️ Technologies Used
-
-HTML
-
-CSS (optional, add your own styles)
-
-JavaScript (DOM manipulation, prompt(), parseInt())
-
-------------------------------------------------------------------------------
-
-### 📝 Popis
-
-Tento malý webový projekt ukazuje základní interakci s uživatelem v JavaScriptu. Aplikace se zeptá na dvě čísla a poté zobrazí:
-
-➕ Jejich součet
-
-➖ Jejich rozdíl
-
-✖️ Jejich součin
-
-➗ Jejich podíl
-
-###🚀 Jak to používat
-
-Otevři HTML soubor v prohlížeči.
-
-Zadej dvě čísla do výzev (prompt).
-
-Výsledky se zobrazí na stránce v sekci Results.
-
-### 🛠️ Použité technologie
-
-HTML
-
-CSS (volitelné, můžeš si přidat vlastní styly)
-
-JavaScript (práce s DOM, prompt(), parseInt())
+### ▶️ Použití  
+1. Otevři soubor `index.html` v prohlížeči 🌐  
+2. Zadej dvě čísla do výzev (prompt) 🧾  
+3. Výsledky se zobrazí v sekci **Results** na stránce ✅  
 
 
