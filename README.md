@@ -29,9 +29,7 @@ This small web project demonstrates basic **user interaction with JavaScript**. 
 - CSS *(optional, add your own styles)*  
 - JavaScript (DOM manipulation, `prompt()`, `parseInt()`)
 
----
-
-## 🇨🇿 Čeština
+------------------------------------------------------------------------
 
 Tento malý webový projekt ukazuje základní **interakci s uživatelem v JavaScriptu**. Aplikace se zeptá na dvě čísla a poté zobrazí:
 
