@@ -1,8 +1,8 @@
-##🥮 Simple Math Prompt Web App
+## 🥮 Simple Math Prompt Web App
 
 A simple HTML + JavaScript project that asks the user for two numbers and displays the sum, difference, product, and quotient on the page.
 
-###📝 Description
+### 📝 Description
 
 This small web project demonstrates basic user interaction with JavaScript. The app prompts the user to enter two numbers and then dynamically shows:
 
@@ -22,7 +22,7 @@ Enter two numbers when prompted.
 
 See the results appear on the page under the Results section.
 
-###🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 HTML
 
@@ -32,7 +32,7 @@ JavaScript (DOM manipulation, prompt(), parseInt())
 
 ------------------------------------------------------------------------------
 
-###📝 Popis
+### 📝 Popis
 
 Tento malý webový projekt ukazuje základní interakci s uživatelem v JavaScriptu. Aplikace se zeptá na dvě čísla a poté zobrazí:
 
@@ -52,7 +52,7 @@ Zadej dvě čísla do výzev (prompt).
 
 Výsledky se zobrazí na stránce v sekci Results.
 
-###🛠️ Použité technologie
+### 🛠️ Použité technologie
 
 HTML
 
