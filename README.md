@@ -14,7 +14,7 @@ This small web project demonstrates basic user interaction with JavaScript. The 
 
 ➗ Their quotient
 
-###🚀 How to Use
+### 🚀 How to Use
 
 Open the HTML file in a browser.
 
