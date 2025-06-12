@@ -2,7 +2,7 @@
 
 📝 Project Description
 
-This small web project demonstrates basic user interaction with JavaScript. The app prompts the user to enter two numbers and then dynamically shows:
+This small web project demonstrates basic user interaction with JavaScript. The app prompts the user to enter two numbers and then dynamically displays the results within the designated section of the page.
 
 * ➕ Their sum
 * ➖ Their difference
@@ -21,7 +21,7 @@ During development, I also experimented with adding an animated background using
 
 1.  Open the `index.html` file in your browser 🌐
 2.  Enter two numbers when prompted 🧾 (You can use either a decimal point or comma)
-3.  See the results appear on the page under the `Results` section ✅
+3.  See the results appear on the page within the main section ✅
 
 ---
 
@@ -29,7 +29,7 @@ During development, I also experimented with adding an animated background using
 
 📝 Popis projektu
 
-Tento malý webový projekt ukazuje základní interakci s uživatelem v JavaScriptu. Aplikace se zeptá na dvě čísla a poté dynamicky zobrazí:
+Tento malý webový projekt ukazuje základní interakci s uživatelem v JavaScriptu. Aplikace se zeptá na dvě čísla a poté dynamicky zobrazí výsledky v určené sekci na stránce.
 
 * ➕ Jejich součet
 * ➖ Jejich rozdíl
@@ -48,5 +48,4 @@ Během vývoje jsem si také procvičila přidávání animovaného pozadí pomo
 
 1.  Otevři soubor `index.html` v prohlížeči 🌐
 2.  Zadej dvě čísla do výzev (`prompt`) 🧾 (Můžeš použít desetinnou čárku nebo tečku)
-3.  Výsledky se zobrazí v sekci `Results` na stránce ✅
-
+3.  Výsledky se zobrazí v hlavní sekci na stránce ✅
